@@ -1,5 +1,5 @@
 ### Author: JMZ
-### Modified: 3/26/15
+### Modified: 3/23/15
 ### Purpose: Initial start of functions that take downloaded MODIS LST data and organizes them by year and day for analysis.
 ### The input will be a list of MODIS pixels that we will then analyze
 
